@@ -135,7 +135,9 @@
               * [StackArrayList](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/stacks/StackArrayList.java)
               * [StackOfLinkedList](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/stacks/StackOfLinkedList.java)
             * trees
+          
               * [AVLSimple](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/AVLSimple.java)
+              * [CreateBinaryTreeFromInorderPreorder] (https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/CreateBinaryTreeFromInorderPreorder.java)
               * [AVLTree](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/AVLTree.java)
               * [BinaryTree](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/BinaryTree.java)
               * [BSTIterative](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/BSTIterative.java)
