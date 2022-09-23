@@ -137,7 +137,6 @@
             * trees
           
               * [AVLSimple](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/AVLSimple.java)
-              * [CreateBinaryTreeFromInorderPostorder] (https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/CreateBinaryTreeFromInorderPostorder.java)
               * [AVLTree](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/AVLTree.java)
               * [BinaryTree](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/BinaryTree.java)
               * [BSTIterative](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/trees/BSTIterative.java)
